@@ -3,7 +3,7 @@ The purpose of this project is to perform unsupervised clustering for customer s
 
 ![image](https://user-images.githubusercontent.com/125039071/221970656-b117384c-1230-4ae1-9519-dcf7fa0a1cec.png)
 
-# The dataset
+# The dataset (Customer Personality Data)
 
 Column description:
 
@@ -31,3 +31,22 @@ Column description:
 - Complain
 - Z_CostContact
 - Z_Revenue
+
+
+# The main steps
+
+- Data cleaning
+- Data Visualization
+![Uploading Screenshot 2023-02-28 at 10.47.58 PM.png…]()
+
+- Data cleaning
+- Data Scaling
+- Dimentionality reduction with Principal Component Analysis (PCA)
+- Hierarchical clustering - Scipy linkage()
+- Hierarchical clustering - Sklearn agglomerative()
+- K-means, optimal k with elbow method
+- Plotting the clusters
+- Insights about the cluster distribution
+- Conclusion
+
+
