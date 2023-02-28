@@ -38,15 +38,36 @@ Column description:
 - Data cleaning
 - Data Visualization
 
+<img width="950" alt="Screenshot 2023-02-28 at 10 55 36 PM" src="https://user-images.githubusercontent.com/125039071/221977707-7f630f02-75ed-40fa-98f1-decee9b08e9c.png">
+
+Histogram
 <img width="993" alt="Screenshot 2023-02-28 at 10 47 58 PM" src="https://user-images.githubusercontent.com/125039071/221977137-b5e8b083-d17d-4813-8a1d-10f373d7cd78.png">
 
 - Data Scaling
 - Dimentionality reduction with Principal Component Analysis (PCA)
+ 
+ <img width="611" alt="Screenshot 2023-02-28 at 10 58 32 PM" src="https://user-images.githubusercontent.com/125039071/221978293-d5746552-2290-48d6-a42e-d752e11d3505.png">
+ 
 - Hierarchical clustering - Scipy linkage()
+
+<img width="1016" alt="Screenshot 2023-02-28 at 11 00 29 PM" src="https://user-images.githubusercontent.com/125039071/221978667-47777bde-3e6b-4c0a-b69d-1e3749218bd3.png">
+
+
 - Hierarchical clustering - Sklearn agglomerative()
 - K-means, optimal k with elbow method
+
+<img width="1021" alt="Screenshot 2023-02-28 at 11 01 31 PM" src="https://user-images.githubusercontent.com/125039071/221978919-a90dac14-dd7e-4247-879d-c8d61b79f5a8.png">
+
 - Plotting the clusters
+
+<img width="665" alt="Screenshot 2023-02-28 at 11 03 03 PM" src="https://user-images.githubusercontent.com/125039071/221979113-4f5d4b11-2c07-4878-823b-7bd53d6c5610.png">
+
+
 - Insights about the cluster distribution
+
+<img width="1009" alt="Screenshot 2023-02-28 at 11 03 44 PM" src="https://user-images.githubusercontent.com/125039071/221979277-df547bdd-8569-43ce-8209-73a47c55bea1.png">
+
+
 - Conclusion
 
 
