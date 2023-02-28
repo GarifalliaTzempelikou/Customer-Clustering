@@ -38,8 +38,8 @@ Column description:
 - Data cleaning
 - Data Visualization
 
+<img width="993" alt="Screenshot 2023-02-28 at 10 47 58 PM" src="https://user-images.githubusercontent.com/125039071/221977137-b5e8b083-d17d-4813-8a1d-10f373d7cd78.png">
 
-- Data cleaning
 - Data Scaling
 - Dimentionality reduction with Principal Component Analysis (PCA)
 - Hierarchical clustering - Scipy linkage()
