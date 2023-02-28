@@ -37,7 +37,8 @@ Column description:
 
 - Data cleaning
 - Data Visualization
-![Uploading Screenshot 2023-02-28 at 10.47.58 PM.png…]()
+
+/Users/sophia/Desktop/Screenshot 2023-02-28 at 10.47.58 PM.png
 
 - Data cleaning
 - Data Scaling
