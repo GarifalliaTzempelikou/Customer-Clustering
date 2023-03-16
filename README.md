@@ -58,24 +58,30 @@ Histogram
 
 <img width="1021" alt="Screenshot 2023-02-28 at 11 01 31 PM" src="https://user-images.githubusercontent.com/125039071/221978919-a90dac14-dd7e-4247-879d-c8d61b79f5a8.png">
 
-### Examining the elbow technique and the silhouette score we decided that the best separation of our data is in three clusters.
+### At the iterative plot above we can see the ratio of Distortion Score for different number of clusters. We choose the k = 2 because there the ratio starts to decease in a linear way (the Elbow).
+
+## silhouette_score
+
+<img width="1014" alt="Screenshot 2023-03-16 at 10 45 51 PM" src="https://user-images.githubusercontent.com/125039071/225748719-cc6b3a0b-a5c5-4d30-ae2a-b7a9b8bda471.png">
+
+
+### Examining the elbow technique and the silhouette score we decided that the best separation of our data is in two clusters.
 
 ## 8) Plotting the clusters
 
-<img width="665" alt="Screenshot 2023-02-28 at 11 03 03 PM" src="https://user-images.githubusercontent.com/125039071/221979113-4f5d4b11-2c07-4878-823b-7bd53d6c5610.png">
+<img width="636" alt="Screenshot 2023-03-16 at 10 41 20 PM" src="https://user-images.githubusercontent.com/125039071/225747858-2de5faad-9deb-4147-a78a-b22afcb78154.png">
 
 
 ## 9) Insights about the cluster distribution
 
-<img width="1009" alt="Screenshot 2023-02-28 at 11 03 44 PM" src="https://user-images.githubusercontent.com/125039071/221979277-df547bdd-8569-43ce-8209-73a47c55bea1.png">
+<img width="1007" alt="Screenshot 2023-03-16 at 10 42 58 PM" src="https://user-images.githubusercontent.com/125039071/225748180-f0448331-8183-45a6-a81c-5880015fbf52.png">
 
 
 ## 10) Conclusion
 
-First cluster includes customers with high income and high spending who are >45 and have 0 or 1 kid. They don't need deal purchases and they spend a lot of money to several products.
+First cluster includes customers with low income ,so , low spending who are mainly young but have a big family to take care of. As a result, their low income doesn't allow them to satisfy the needs of a big family. They prefer the deal purchases because of their economic problems.
 
-Second cluster includes customers with average income and average spending. They don't seem to have economic problems but they don't live in abundance either.
+Second cluster includes customers with high income and high spending who are round 45 years old and have 0 or 1 kid. They don't need deal purchases and they spend a lot of money to several products.
 
-Third cluster includes customers with low income ,and so, low spending who are mainly young but have a big family to take care of. As a result, their low income doesn't allow them to satisfy the needs of a big family. They prefer the deal purchases because of their economic problems.
 
 # The information above can be used in planning better marketing strategies.
