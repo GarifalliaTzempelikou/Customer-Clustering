@@ -32,6 +32,7 @@ Column description:
 - Z_CostContact
 - Z_Revenue
 
+(marketing_campaign.csv, source Kaggle)
 
 # The main steps
 
